@@ -1,0 +1,6 @@
+author = 'Lee Kwang Chin'
+baseURL = 'https://easescore.echin.net/'
+copyright = 'Copyright © 2026 eChin Network. All rights reserved.'
+languageCode = 'en-us'
+title = 'EaseScore'
+theme = 'paper'
