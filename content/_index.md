@@ -22,6 +22,20 @@ After the match, review your performance in the **Match History** or generate a 
 
 ---
 
+## 20 Jan 2026, version 1.2
+
+### AdMob release!
+
+### Bug fuxes
+
+---
+
+## 12 Jan 2026, version 1.1.2
+
+### AdMob Update
+
+---
+
 ## 6 Jan 2026, version 1.1.1
 
 ### Monetization release!
