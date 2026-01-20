@@ -26,7 +26,7 @@ After the match, review your performance in the **Match History** or generate a 
 
 ### AdMob release!
 
-### Bug fuxes
+### Bug fixes!
 
 ---
 
